@@ -4,7 +4,7 @@ Thank you for your interest in contributing to the Doctor Appointment Booking Sy
 
 ## Code of Conduct
 
-Before getting started, please review our [Code of Conduct](CODE_OF_CONDUCT.md). We expect all contributors to follow these guidelines to maintain a respectful and inclusive environment for everyone.
+Before getting started, please review our [Code of Conduct](https://github.com/Ritu84/Doctor--Appointment-/blob/main/CODE_OF_CONDUCT.md). We expect all contributors to follow these guidelines to maintain a respectful and inclusive environment for everyone.
 
 ## How to Contribute
 
